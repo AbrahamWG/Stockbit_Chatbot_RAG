@@ -32,12 +32,16 @@ jupyter notebook
 Open the Stockbit_Chatbot_RAG.ipynb file in Jupyter Notebook.
 
 4. Make a db_log folder in the current directory:
-![Alt text](images/root.png)
 This is needed to make the duckdb going later on.
+
+
+![Alt text](images/root.png)
+
 
 6. Run the cells:
 Follow the instructions and run the cells sequentially to process the CSV file, generate embeddings, and interact with the chatbot.
-![Alt text](images/Bibit_tutup.png)
+
+![Alt text](images/Bibit_Tutup.png)
 ![Alt text](images/MF_USD.png)
 
 ## API Key Setup
